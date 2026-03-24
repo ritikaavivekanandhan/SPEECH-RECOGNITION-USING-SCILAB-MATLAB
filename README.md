@@ -83,7 +83,8 @@ disp("Waveforms plotted and compared successfully.");
 ~~~
 
 ## OUTPUT: 
-![WhatsApp Image 2026-03-19 at 13 45 08](https://github.com/user-attachments/assets/70f1129f-37cc-45da-b1d3-63526881fec4)
+<img width="1599" height="1390" alt="image" src="https://github.com/user-attachments/assets/23a83384-fbfc-41cc-a3e0-cecbbcdb2a3a" />
+
 
 
 ## RESULT: 
